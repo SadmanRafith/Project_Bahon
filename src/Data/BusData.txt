@@ -1,0 +1,20 @@
+From : Dhaka
+To : Chittagong
+Booking Date: 2022-08-23
+Arrival : 2022-08-25
+Seat No : 4
+Type : AC
+Coach: Shyamoli
+Time : 10:45 AM
+Total Cost : 4800
+=========================================
+From : Sylhet
+To : Dhaka
+Booking Date: 2022-08-25
+Arrival : 2022-08-28
+Seat No : 2
+Type : AC
+Coach: Shyamoli
+Time : 10:00 AM
+Total Cost : 2200
+=========================================

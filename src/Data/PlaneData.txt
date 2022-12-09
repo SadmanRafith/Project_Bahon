@@ -1,0 +1,10 @@
+From : Chittagong
+To : Dhaka
+Booking Date: 2022-08-23
+Arrival : 2022-08-27
+Seat No : 2
+Type : Economy
+Airlines : US-Bangla
+Time : 10:00 AM
+Total Cost : 7600
+=========================================
